@@ -1,0 +1,125 @@
+@media (min-width: 200px) {
+  #modalxl {
+ -webkit-transform:scale(0.5);transform:scale(0.5);
+ font-size: 50%;
+}
+.logofac{
+  width: 100px;
+}
+}
+
+@media (min-width: 576px) {
+  #modalxl {
+ -webkit-transform:scale(1);transform:scale(1); 	
+ min-width: 570px;
+ font-size: 50%;
+}
+.logofac{
+  width: 125px;
+}
+}
+
+@media (min-width: 576px) {
+  #modalxl {
+ min-width: 590px;
+ font-size: 55%;
+}
+.logofac{
+  width: 138px;
+}
+}
+
+@media (min-width: 640px) {
+  #modalxl {
+ min-width: 610px;
+ font-size: 60%;
+}
+.logofac{
+  width: 150px;
+}
+}
+
+@media (min-width: 660px) {
+  #modalxl {
+ min-width: 630px;
+ font-size: 65%;
+}
+.logofac{
+  width: 163px;
+}
+}
+
+@media (min-width: 675px) {
+  #modalxl {
+ min-width: 650px;
+ font-size: 70%;
+}
+.logofac{
+  width: 175px;
+}
+}
+
+@media (min-width: 730px) {
+  #modalxl {
+ min-width: 700px;
+ font-size: 77%;
+}
+.logofac{
+  width: 193px;
+}
+}
+
+@media (min-width: 790px) {
+  #modalxl {
+ min-width: 760px;
+ font-size: 85%;
+}
+.logofac{
+  width: 213px;
+}
+}
+
+@media (min-width: 822px) {
+  #modalxl {
+ min-width: 790px;
+ font-size: 85%;
+}
+.logofac{
+  width: 213px;
+}
+}
+
+@media (min-width: 890px) {
+  #modalxl {
+ min-width: 850px;
+}
+.logofac{
+  width: 225px;
+}
+}
+
+@media (min-width: 900px) {
+  #modalxl {
+ min-width: 860px;
+}
+.logofac{
+  width: 250px;
+}
+}
+
+@media (min-width: 992px) {
+  #modalxl {
+ min-width: 960px;
+	}
+.logofac{
+  width: 240px;
+}
+}
+@media (min-width: 1200px) {
+  #modalxl {
+ min-width: 1144px;
+}
+.logofac{
+  width: 250px;
+}
+}
